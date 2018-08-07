@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: map.hazelcast.poc.PocApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 12.897 s - in map.hazelcast.poc.PocApplicationTests

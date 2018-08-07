@@ -9,9 +9,6 @@ public enum Weeks {
     private String weekName;
     private int weekNumber;
 
-    Weeks() {
-    }
-
     Weeks(String weekName, int weekNumber) {
         this.weekName = weekName;
         this.weekNumber = weekNumber;
@@ -23,13 +20,5 @@ public enum Weeks {
 
     public String getWeekName() {
         return weekName;
-    }
-
-    public void setWeekName(String weekName) {
-        this.weekName = weekName;
-    }
-
-    public void setWeekNumber(int weekNumber) {
-        this.weekNumber = weekNumber;
     }
 }

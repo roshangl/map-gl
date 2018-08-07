@@ -1,9 +1,9 @@
 package map.hazelcast.poc.controller;
 
 import map.hazelcast.poc.domain.ProgramRow;
+import map.hazelcast.poc.response.ProgramRowResponse;
+import map.hazelcast.poc.response.TimePeriodGroup;
 import map.hazelcast.poc.service.MAPService;
-import map.hazelcast.poc.ui.response.ProgramRowResponse;
-import map.hazelcast.poc.ui.response.TimePeriodGroup;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
@@ -16,10 +16,14 @@ public class MAPController {
     @Autowired
     private MAPService mapService;
 
+    @CrossOrigin(origins = "http://172.16.34.142:4200")
     @GetMapping
-    public List<ProgramRowResponse> findProgramRowsForDates(@RequestParam("startDate") String startDate,
-                                                            @RequestParam("endDate") String endDate,
-                                                            @RequestParam("timePeriodGroup") TimePeriodGroup timePeriodGroup) {
+    public List<ProgramRowResponse> findProgramRowsForDates(@RequestParam(name = "startDate", required = false, defaultValue = "JAN WK1 2000") String startDate,
+                                                            @RequestParam(name = "endDate", required = false, defaultValue = "JAN WK1 2030") String endDate,
+                                                            @RequestParam(name = "timePeriodGroup", required = false) TimePeriodGroup timePeriodGroup) {
+        if (timePeriodGroup == null) {
+            timePeriodGroup = TimePeriodGroup.DYNAMIC;
+        }
         return mapService.findProgramRows(startDate, endDate, timePeriodGroup);
     }
 

@@ -1,14 +1,14 @@
 package map.hazelcast.poc.service;
 
-import java.util.List;
-
 import map.hazelcast.poc.domain.ProgramRow;
+
+import java.util.List;
 
 public interface MapDataGeneratorService {
 
-    List<ProgramRow> getKp2Data();
+    List<ProgramRow> getKp2Data(int numberOfPrograms, int numberOfWeeks);
 
-    List<ProgramRow> getLyData();
+    List<ProgramRow> getLyData(int numberOfPrograms, int numberOfWeeks);
 
-    List<ProgramRow> getBuyData();
+    List<ProgramRow> getBuyData(int numberOfPrograms, int numberOfWeeks);
 }

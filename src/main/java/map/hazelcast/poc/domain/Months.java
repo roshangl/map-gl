@@ -1,25 +1,21 @@
 package map.hazelcast.poc.domain;
 
 public enum Months {
-
-    JAN("Jan", 1),
-    FEB("Feb", 2),
-    MAR("Mar", 3),
-    APR("Apr", 4),
-    MAY("May", 5),
-    JUN("Jun", 6),
-    JUL("Jul", 7),
-    AUG("Aug", 8),
-    SEP("Sep", 9),
-    OCT("Oct", 10),
-    NOV("Nov", 11),
-    DEC("Dec", 12);
+    JAN("JAN", 1),
+    FEB("FEB", 2),
+    MAR("MAR", 3),
+    APR("APR", 4),
+    MAY("MAY", 5),
+    JUN("JUN", 6),
+    JUL("JUL", 7),
+    AUG("AUG", 8),
+    SEP("SEP", 9),
+    OCT("OCT", 10),
+    NOV("NOV", 11),
+    DEC("DEC", 12);
 
     private String monthName;
     private int monthNumber;
-
-    Months() {
-    }
 
     Months(String monthName, int monthNumber) {
         this.monthName = monthName;
@@ -28,14 +24,6 @@ public enum Months {
 
     public String getMonthName() {
         return monthName;
-    }
-
-    public void setMonthName(String monthName) {
-        this.monthName = monthName;
-    }
-
-    public void setMonthNumber(int monthNumber) {
-        this.monthNumber = monthNumber;
     }
 
     public int getMonthNumber() {

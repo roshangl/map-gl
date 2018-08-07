@@ -48,7 +48,17 @@ public class FiscalDatePredicate implements Predicate<String, ProgramRow> {
                 }
             }else if(startFiscalDate.getFiscalMonth().getMonthNumber() == inputStartFiscalDate.getFiscalMonth().getMonthNumber()){
                 if(startFiscalDate.getFiscalWeek().getWeekNumber() >= inputStartFiscalDate.getFiscalWeek().getWeekNumber()){
-                    return true;
+                    if (endFiscalDate.getFiscalYear() < inputEndFiscalDate.getFiscalYear()) {
+                        return true;
+                    } else if (endFiscalDate.getFiscalYear() == inputEndFiscalDate.getFiscalYear()) {
+                        if(endFiscalDate.getFiscalMonth().getMonthNumber() < inputEndFiscalDate.getFiscalMonth().getMonthNumber()){
+                            return true;
+                        }else if(endFiscalDate.getFiscalMonth().getMonthNumber() == inputEndFiscalDate.getFiscalMonth().getMonthNumber()){
+                            if(endFiscalDate.getFiscalWeek().getWeekNumber() <= inputEndFiscalDate.getFiscalWeek().getWeekNumber()){
+                                return true;
+                            }
+                        }
+                    }
                 }
             }
         }

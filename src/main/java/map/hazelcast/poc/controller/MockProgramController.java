@@ -1,18 +1,18 @@
 package map.hazelcast.poc.controller;
 
-import java.util.List;
-
+import com.hazelcast.core.Hazelcast;
+import com.hazelcast.core.HazelcastInstance;
+import com.hazelcast.core.IMap;
+import map.hazelcast.poc.domain.CacheType;
+import map.hazelcast.poc.domain.ProgramRow;
+import map.hazelcast.poc.entryprocessor.DateIntializerEntryProcessor;
+import map.hazelcast.poc.service.MapDataGeneratorService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.cache.Cache;
 import org.springframework.cache.CacheManager;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.RequestBody;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 
-import map.hazelcast.poc.domain.ProgramRow;
-import map.hazelcast.poc.service.MapDataGeneratorService;
+import java.util.List;
 
 @RestController
 @RequestMapping("/map")
@@ -24,38 +24,56 @@ public class MockProgramController {
     @Autowired
     private CacheManager cacheManager;
 
-    @GetMapping("/kp2")
-    public List<ProgramRow> getKp2DataPlanWise() {
-        return mapDataGeneratorService.getKp2Data();
+    @GetMapping("/kp2/{numberOfPrograms}/{numberOfWeeks}")
+    public List<ProgramRow> getKp2DataPlanWise(@PathVariable("numberOfPrograms") int numberOfPrograms,
+                                               @PathVariable("numberOfWeeks") int numberOfWeeks) {
+        return mapDataGeneratorService.getKp2Data(numberOfPrograms, numberOfWeeks);
     }
 
-    @GetMapping("/ly")
-    public List<ProgramRow> getLyDataPlanWise() {
-        return mapDataGeneratorService.getLyData();
+    @GetMapping("/ly/{numberOfPrograms}/{numberOfWeeks}")
+    public List<ProgramRow> getLyDataPlanWise(@PathVariable("numberOfPrograms") int numberOfPrograms,
+                                              @PathVariable("numberOfWeeks") int numberOfWeeks) {
+        return mapDataGeneratorService.getLyData(numberOfPrograms, numberOfWeeks);
     }
 
-    @GetMapping("/buy")
-    public List<ProgramRow> getBuyDataPlanWise() {
-        return mapDataGeneratorService.getBuyData();
+    @GetMapping("/buy/{numberOfPrograms}/{numberOfWeeks}")
+    public List<ProgramRow> getBuyDataPlanWise(@PathVariable("numberOfPrograms") int numberOfPrograms,
+                                               @PathVariable("numberOfWeeks") int numberOfWeeks) {
+        return mapDataGeneratorService.getBuyData(numberOfPrograms, numberOfWeeks);
     }
 
 
     @PostMapping("/kp2")
     public void cacheKp2Data(@RequestBody List<ProgramRow> programRows) {
-        Cache cache = cacheManager.getCache("kp2Cache");
+        //Cache cache = cacheManager.getCache(CacheType.KP2_CACHE_LOCAL.getValue());
+        Cache cache = cacheManager.getCache(CacheType.KP2_CACHE.getValue());
         programRows.forEach(p -> cache.put(p.getTyProgram(), p));
+        HazelcastInstance hz = Hazelcast.getHazelcastInstanceByName(CacheType.HAZELCAST_CACHE.getValue());
+        //IMap<String, ProgramRow> map = hz.getMap(CacheType.KP2_CACHE_LOCAL.getValue());
+        IMap<String, ProgramRow> map = hz.getMap(CacheType.KP2_CACHE.getValue());
+        map.executeOnEntries(new DateIntializerEntryProcessor());
     }
 
     @PostMapping("/ly")
     public void cacheLyData(@RequestBody List<ProgramRow> programRows) {
-        Cache cache = cacheManager.getCache("lyCache");
+        //Cache cache = cacheManager.getCache(CacheType.LY_CACHE_LOCAL.getValue());
+        Cache cache = cacheManager.getCache(CacheType.LY_CACHE.getValue());
         programRows.forEach(p -> cache.put(p.getTyProgram(), p));
+        HazelcastInstance hz = Hazelcast.getHazelcastInstanceByName(CacheType.HAZELCAST_CACHE.getValue());
+        //IMap<String, ProgramRow> map = hz.getMap(CacheType.LY_CACHE_LOCAL.getValue());
+        IMap<String, ProgramRow> map = hz.getMap(CacheType.LY_CACHE.getValue());
+        map.executeOnEntries(new DateIntializerEntryProcessor());
     }
 
     @PostMapping("/buy")
     public void cacheBuyData(@RequestBody List<ProgramRow> programRows) {
-        Cache cache = cacheManager.getCache("buyCache");
+        //Cache cache = cacheManager.getCache(CacheType.BUY_CACHE_LOCAL.getValue());
+        Cache cache = cacheManager.getCache(CacheType.BUY_CACHE.getValue());
         programRows.forEach(p -> cache.put(p.getTyProgram(), p));
+        HazelcastInstance hz = Hazelcast.getHazelcastInstanceByName(CacheType.HAZELCAST_CACHE.getValue());
+        //IMap<String, ProgramRow> map = hz.getMap(CacheType.BUY_CACHE_LOCAL.getValue());
+        IMap<String, ProgramRow> map = hz.getMap(CacheType.BUY_CACHE.getValue());
+        map.executeOnEntries(new DateIntializerEntryProcessor());
     }
 
     /*programRows.forEach(p -> {
