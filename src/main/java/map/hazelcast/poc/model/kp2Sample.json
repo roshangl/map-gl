@@ -1,0 +1,2021 @@
+[
+  {
+    "tyProgram": "Program Plan 1 2018",
+    "lyProgram": [
+      "Program Plan 1 2017"
+    ],
+    "omniChannelPlan": {
+      "weekPlanData": [
+        {
+          "salesUnits": 21002,
+          "salesDollars": 21002,
+          "sellThruPercent": 23,
+          "receiptsUnits": 21002,
+          "receiptsDollars": 21002,
+          "bopUnits": 21002,
+          "doorCount": 212,
+          "styleColorCount": 212,
+          "ticketAUR": 212,
+          "cost": 21002,
+          "startFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK1",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK1",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        },
+        {
+          "salesUnits": 42004,
+          "salesDollars": 42004,
+          "sellThruPercent": 46,
+          "receiptsUnits": 42004,
+          "receiptsDollars": 42004,
+          "bopUnits": 42004,
+          "doorCount": 424,
+          "styleColorCount": 424,
+          "ticketAUR": 424,
+          "cost": 42004,
+          "startFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK2",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK2",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        },
+        {
+          "salesUnits": 63006,
+          "salesDollars": 63006,
+          "sellThruPercent": 69,
+          "receiptsUnits": 63006,
+          "receiptsDollars": 63006,
+          "bopUnits": 63006,
+          "doorCount": 636,
+          "styleColorCount": 636,
+          "ticketAUR": 636,
+          "cost": 63006,
+          "startFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK3",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK3",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        },
+        {
+          "salesUnits": 84008,
+          "salesDollars": 84008,
+          "sellThruPercent": 92,
+          "receiptsUnits": 84008,
+          "receiptsDollars": 84008,
+          "bopUnits": 84008,
+          "doorCount": 848,
+          "styleColorCount": 848,
+          "ticketAUR": 848,
+          "cost": 84008,
+          "startFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK4",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK4",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        },
+        {
+          "salesUnits": 21002,
+          "salesDollars": 21002,
+          "sellThruPercent": 23,
+          "receiptsUnits": 21002,
+          "receiptsDollars": 21002,
+          "bopUnits": 21002,
+          "doorCount": 212,
+          "styleColorCount": 212,
+          "ticketAUR": 212,
+          "cost": 21002,
+          "startFiscalDate": {
+            "fiscalMonth": "MAR",
+            "fiscalWeek": "WK1",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "MAR",
+            "fiscalWeek": "WK1",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        },
+        {
+          "salesUnits": 42004,
+          "salesDollars": 42004,
+          "sellThruPercent": 46,
+          "receiptsUnits": 42004,
+          "receiptsDollars": 42004,
+          "bopUnits": 42004,
+          "doorCount": 424,
+          "styleColorCount": 424,
+          "ticketAUR": 424,
+          "cost": 42004,
+          "startFiscalDate": {
+            "fiscalMonth": "MAR",
+            "fiscalWeek": "WK2",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "MAR",
+            "fiscalWeek": "WK2",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        },
+        {
+          "salesUnits": 63006,
+          "salesDollars": 63006,
+          "sellThruPercent": 69,
+          "receiptsUnits": 63006,
+          "receiptsDollars": 63006,
+          "bopUnits": 63006,
+          "doorCount": 636,
+          "styleColorCount": 636,
+          "ticketAUR": 636,
+          "cost": 63006,
+          "startFiscalDate": {
+            "fiscalMonth": "MAR",
+            "fiscalWeek": "WK3",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "MAR",
+            "fiscalWeek": "WK3",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        },
+        {
+          "salesUnits": 84008,
+          "salesDollars": 84008,
+          "sellThruPercent": 92,
+          "receiptsUnits": 84008,
+          "receiptsDollars": 84008,
+          "bopUnits": 84008,
+          "doorCount": 848,
+          "styleColorCount": 848,
+          "ticketAUR": 848,
+          "cost": 84008,
+          "startFiscalDate": {
+            "fiscalMonth": "MAR",
+            "fiscalWeek": "WK4",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "MAR",
+            "fiscalWeek": "WK4",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        }
+      ],
+      "monthPlanData": null,
+      "dynamicPlanData": null
+    },
+    "digitalChannelPlan": {
+      "weekPlanData": [
+        {
+          "salesUnits": 21002,
+          "salesDollars": 21002,
+          "sellThruPercent": 23,
+          "receiptsUnits": 21002,
+          "receiptsDollars": 21002,
+          "bopUnits": 21002,
+          "doorCount": 212,
+          "styleColorCount": 212,
+          "ticketAUR": 212,
+          "cost": 21002,
+          "startFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK1",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK1",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        },
+        {
+          "salesUnits": 42004,
+          "salesDollars": 42004,
+          "sellThruPercent": 46,
+          "receiptsUnits": 42004,
+          "receiptsDollars": 42004,
+          "bopUnits": 42004,
+          "doorCount": 424,
+          "styleColorCount": 424,
+          "ticketAUR": 424,
+          "cost": 42004,
+          "startFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK2",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK2",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        },
+        {
+          "salesUnits": 63006,
+          "salesDollars": 63006,
+          "sellThruPercent": 69,
+          "receiptsUnits": 63006,
+          "receiptsDollars": 63006,
+          "bopUnits": 63006,
+          "doorCount": 636,
+          "styleColorCount": 636,
+          "ticketAUR": 636,
+          "cost": 63006,
+          "startFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK3",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK3",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        },
+        {
+          "salesUnits": 84008,
+          "salesDollars": 84008,
+          "sellThruPercent": 92,
+          "receiptsUnits": 84008,
+          "receiptsDollars": 84008,
+          "bopUnits": 84008,
+          "doorCount": 848,
+          "styleColorCount": 848,
+          "ticketAUR": 848,
+          "cost": 84008,
+          "startFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK4",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK4",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        },
+        {
+          "salesUnits": 21002,
+          "salesDollars": 21002,
+          "sellThruPercent": 23,
+          "receiptsUnits": 21002,
+          "receiptsDollars": 21002,
+          "bopUnits": 21002,
+          "doorCount": 212,
+          "styleColorCount": 212,
+          "ticketAUR": 212,
+          "cost": 21002,
+          "startFiscalDate": {
+            "fiscalMonth": "MAR",
+            "fiscalWeek": "WK1",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "MAR",
+            "fiscalWeek": "WK1",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        },
+        {
+          "salesUnits": 42004,
+          "salesDollars": 42004,
+          "sellThruPercent": 46,
+          "receiptsUnits": 42004,
+          "receiptsDollars": 42004,
+          "bopUnits": 42004,
+          "doorCount": 424,
+          "styleColorCount": 424,
+          "ticketAUR": 424,
+          "cost": 42004,
+          "startFiscalDate": {
+            "fiscalMonth": "MAR",
+            "fiscalWeek": "WK2",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "MAR",
+            "fiscalWeek": "WK2",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        },
+        {
+          "salesUnits": 63006,
+          "salesDollars": 63006,
+          "sellThruPercent": 69,
+          "receiptsUnits": 63006,
+          "receiptsDollars": 63006,
+          "bopUnits": 63006,
+          "doorCount": 636,
+          "styleColorCount": 636,
+          "ticketAUR": 636,
+          "cost": 63006,
+          "startFiscalDate": {
+            "fiscalMonth": "MAR",
+            "fiscalWeek": "WK3",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "MAR",
+            "fiscalWeek": "WK3",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        },
+        {
+          "salesUnits": 84008,
+          "salesDollars": 84008,
+          "sellThruPercent": 92,
+          "receiptsUnits": 84008,
+          "receiptsDollars": 84008,
+          "bopUnits": 84008,
+          "doorCount": 848,
+          "styleColorCount": 848,
+          "ticketAUR": 848,
+          "cost": 84008,
+          "startFiscalDate": {
+            "fiscalMonth": "MAR",
+            "fiscalWeek": "WK4",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "MAR",
+            "fiscalWeek": "WK4",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        }
+      ],
+      "monthPlanData": null,
+      "dynamicPlanData": null
+    },
+    "storeChannelPlan": {
+      "weekPlanData": [
+        {
+          "salesUnits": 21002,
+          "salesDollars": 21002,
+          "sellThruPercent": 23,
+          "receiptsUnits": 21002,
+          "receiptsDollars": 21002,
+          "bopUnits": 21002,
+          "doorCount": 212,
+          "styleColorCount": 212,
+          "ticketAUR": 212,
+          "cost": 21002,
+          "startFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK1",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK1",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        },
+        {
+          "salesUnits": 42004,
+          "salesDollars": 42004,
+          "sellThruPercent": 46,
+          "receiptsUnits": 42004,
+          "receiptsDollars": 42004,
+          "bopUnits": 42004,
+          "doorCount": 424,
+          "styleColorCount": 424,
+          "ticketAUR": 424,
+          "cost": 42004,
+          "startFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK2",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK2",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        },
+        {
+          "salesUnits": 63006,
+          "salesDollars": 63006,
+          "sellThruPercent": 69,
+          "receiptsUnits": 63006,
+          "receiptsDollars": 63006,
+          "bopUnits": 63006,
+          "doorCount": 636,
+          "styleColorCount": 636,
+          "ticketAUR": 636,
+          "cost": 63006,
+          "startFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK3",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK3",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        },
+        {
+          "salesUnits": 84008,
+          "salesDollars": 84008,
+          "sellThruPercent": 92,
+          "receiptsUnits": 84008,
+          "receiptsDollars": 84008,
+          "bopUnits": 84008,
+          "doorCount": 848,
+          "styleColorCount": 848,
+          "ticketAUR": 848,
+          "cost": 84008,
+          "startFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK4",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK4",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        },
+        {
+          "salesUnits": 21002,
+          "salesDollars": 21002,
+          "sellThruPercent": 23,
+          "receiptsUnits": 21002,
+          "receiptsDollars": 21002,
+          "bopUnits": 21002,
+          "doorCount": 212,
+          "styleColorCount": 212,
+          "ticketAUR": 212,
+          "cost": 21002,
+          "startFiscalDate": {
+            "fiscalMonth": "MAR",
+            "fiscalWeek": "WK1",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "MAR",
+            "fiscalWeek": "WK1",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        },
+        {
+          "salesUnits": 42004,
+          "salesDollars": 42004,
+          "sellThruPercent": 46,
+          "receiptsUnits": 42004,
+          "receiptsDollars": 42004,
+          "bopUnits": 42004,
+          "doorCount": 424,
+          "styleColorCount": 424,
+          "ticketAUR": 424,
+          "cost": 42004,
+          "startFiscalDate": {
+            "fiscalMonth": "MAR",
+            "fiscalWeek": "WK2",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "MAR",
+            "fiscalWeek": "WK2",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        },
+        {
+          "salesUnits": 63006,
+          "salesDollars": 63006,
+          "sellThruPercent": 69,
+          "receiptsUnits": 63006,
+          "receiptsDollars": 63006,
+          "bopUnits": 63006,
+          "doorCount": 636,
+          "styleColorCount": 636,
+          "ticketAUR": 636,
+          "cost": 63006,
+          "startFiscalDate": {
+            "fiscalMonth": "MAR",
+            "fiscalWeek": "WK3",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "MAR",
+            "fiscalWeek": "WK3",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        },
+        {
+          "salesUnits": 84008,
+          "salesDollars": 84008,
+          "sellThruPercent": 92,
+          "receiptsUnits": 84008,
+          "receiptsDollars": 84008,
+          "bopUnits": 84008,
+          "doorCount": 848,
+          "styleColorCount": 848,
+          "ticketAUR": 848,
+          "cost": 84008,
+          "startFiscalDate": {
+            "fiscalMonth": "MAR",
+            "fiscalWeek": "WK4",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "MAR",
+            "fiscalWeek": "WK4",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        }
+      ],
+      "monthPlanData": null,
+      "dynamicPlanData": null
+    },
+    "startFiscalDate": null,
+    "endFiscalDate": null
+  },
+  {
+    "tyProgram": "Program Plan 2 2018",
+    "lyProgram": [
+      "Program Plan 2 2017"
+    ],
+    "omniChannelPlan": {
+      "weekPlanData": [
+        {
+          "salesUnits": 42004,
+          "salesDollars": 42004,
+          "sellThruPercent": 46,
+          "receiptsUnits": 42004,
+          "receiptsDollars": 42004,
+          "bopUnits": 42004,
+          "doorCount": 424,
+          "styleColorCount": 424,
+          "ticketAUR": 424,
+          "cost": 42004,
+          "startFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK2",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK2",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        },
+        {
+          "salesUnits": 42004,
+          "salesDollars": 42004,
+          "sellThruPercent": 46,
+          "receiptsUnits": 42004,
+          "receiptsDollars": 42004,
+          "bopUnits": 42004,
+          "doorCount": 424,
+          "styleColorCount": 424,
+          "ticketAUR": 424,
+          "cost": 42004,
+          "startFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK3",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK3",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        },
+        {
+          "salesUnits": 42004,
+          "salesDollars": 42004,
+          "sellThruPercent": 46,
+          "receiptsUnits": 42004,
+          "receiptsDollars": 42004,
+          "bopUnits": 42004,
+          "doorCount": 424,
+          "styleColorCount": 424,
+          "ticketAUR": 424,
+          "cost": 42004,
+          "startFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK4",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK4",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        },
+        {
+          "salesUnits": 42004,
+          "salesDollars": 42004,
+          "sellThruPercent": 46,
+          "receiptsUnits": 42004,
+          "receiptsDollars": 42004,
+          "bopUnits": 42004,
+          "doorCount": 424,
+          "styleColorCount": 424,
+          "ticketAUR": 424,
+          "cost": 42004,
+          "startFiscalDate": {
+            "fiscalMonth": "MAR",
+            "fiscalWeek": "WK1",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "MAR",
+            "fiscalWeek": "WK1",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        }
+      ],
+      "monthPlanData": null,
+      "dynamicPlanData": null
+    },
+    "digitalChannelPlan": {
+      "weekPlanData": [
+        {
+          "salesUnits": 42004,
+          "salesDollars": 42004,
+          "sellThruPercent": 46,
+          "receiptsUnits": 42004,
+          "receiptsDollars": 42004,
+          "bopUnits": 42004,
+          "doorCount": 424,
+          "styleColorCount": 424,
+          "ticketAUR": 424,
+          "cost": 42004,
+          "startFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK2",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK2",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        },
+        {
+          "salesUnits": 42004,
+          "salesDollars": 42004,
+          "sellThruPercent": 46,
+          "receiptsUnits": 42004,
+          "receiptsDollars": 42004,
+          "bopUnits": 42004,
+          "doorCount": 424,
+          "styleColorCount": 424,
+          "ticketAUR": 424,
+          "cost": 42004,
+          "startFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK3",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK3",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        },
+        {
+          "salesUnits": 42004,
+          "salesDollars": 42004,
+          "sellThruPercent": 46,
+          "receiptsUnits": 42004,
+          "receiptsDollars": 42004,
+          "bopUnits": 42004,
+          "doorCount": 424,
+          "styleColorCount": 424,
+          "ticketAUR": 424,
+          "cost": 42004,
+          "startFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK4",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK4",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        },
+        {
+          "salesUnits": 42004,
+          "salesDollars": 42004,
+          "sellThruPercent": 46,
+          "receiptsUnits": 42004,
+          "receiptsDollars": 42004,
+          "bopUnits": 42004,
+          "doorCount": 424,
+          "styleColorCount": 424,
+          "ticketAUR": 424,
+          "cost": 42004,
+          "startFiscalDate": {
+            "fiscalMonth": "MAR",
+            "fiscalWeek": "WK1",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "MAR",
+            "fiscalWeek": "WK1",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        }
+      ],
+      "monthPlanData": null,
+      "dynamicPlanData": null
+    },
+    "storeChannelPlan": {
+      "weekPlanData": [
+        {
+          "salesUnits": 42004,
+          "salesDollars": 42004,
+          "sellThruPercent": 46,
+          "receiptsUnits": 42004,
+          "receiptsDollars": 42004,
+          "bopUnits": 42004,
+          "doorCount": 424,
+          "styleColorCount": 424,
+          "ticketAUR": 424,
+          "cost": 42004,
+          "startFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK2",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK2",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        },
+        {
+          "salesUnits": 42004,
+          "salesDollars": 42004,
+          "sellThruPercent": 46,
+          "receiptsUnits": 42004,
+          "receiptsDollars": 42004,
+          "bopUnits": 42004,
+          "doorCount": 424,
+          "styleColorCount": 424,
+          "ticketAUR": 424,
+          "cost": 42004,
+          "startFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK3",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK3",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        },
+        {
+          "salesUnits": 42004,
+          "salesDollars": 42004,
+          "sellThruPercent": 46,
+          "receiptsUnits": 42004,
+          "receiptsDollars": 42004,
+          "bopUnits": 42004,
+          "doorCount": 424,
+          "styleColorCount": 424,
+          "ticketAUR": 424,
+          "cost": 42004,
+          "startFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK4",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK4",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        },
+        {
+          "salesUnits": 42004,
+          "salesDollars": 42004,
+          "sellThruPercent": 46,
+          "receiptsUnits": 42004,
+          "receiptsDollars": 42004,
+          "bopUnits": 42004,
+          "doorCount": 424,
+          "styleColorCount": 424,
+          "ticketAUR": 424,
+          "cost": 42004,
+          "startFiscalDate": {
+            "fiscalMonth": "MAR",
+            "fiscalWeek": "WK1",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "MAR",
+            "fiscalWeek": "WK1",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        }
+      ],
+      "monthPlanData": null,
+      "dynamicPlanData": null
+    },
+    "startFiscalDate": null,
+    "endFiscalDate": null
+  },
+  {
+    "tyProgram": "Program Plan 3 2018",
+    "lyProgram": [
+      "Program Plan 3 2017"
+    ],
+    "omniChannelPlan": {
+      "weekPlanData": [
+        {
+          "salesUnits": 21002,
+          "salesDollars": 21002,
+          "sellThruPercent": 23,
+          "receiptsUnits": 21002,
+          "receiptsDollars": 21002,
+          "bopUnits": 21002,
+          "doorCount": 212,
+          "styleColorCount": 212,
+          "ticketAUR": 212,
+          "cost": 21002,
+          "startFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK1",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK1",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        },
+        {
+          "salesUnits": 42004,
+          "salesDollars": 42004,
+          "sellThruPercent": 46,
+          "receiptsUnits": 42004,
+          "receiptsDollars": 42004,
+          "bopUnits": 42004,
+          "doorCount": 424,
+          "styleColorCount": 424,
+          "ticketAUR": 424,
+          "cost": 42004,
+          "startFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK2",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK2",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        },
+        {
+          "salesUnits": 63006,
+          "salesDollars": 63006,
+          "sellThruPercent": 69,
+          "receiptsUnits": 63006,
+          "receiptsDollars": 63006,
+          "bopUnits": 63006,
+          "doorCount": 636,
+          "styleColorCount": 636,
+          "ticketAUR": 636,
+          "cost": 63006,
+          "startFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK3",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK3",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        },
+        {
+          "salesUnits": 84008,
+          "salesDollars": 84008,
+          "sellThruPercent": 92,
+          "receiptsUnits": 84008,
+          "receiptsDollars": 84008,
+          "bopUnits": 84008,
+          "doorCount": 848,
+          "styleColorCount": 848,
+          "ticketAUR": 848,
+          "cost": 84008,
+          "startFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK4",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK4",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        }
+      ],
+      "monthPlanData": null,
+      "dynamicPlanData": null
+    },
+    "digitalChannelPlan": {
+      "weekPlanData": [
+        {
+          "salesUnits": 11001,
+          "salesDollars": 11001,
+          "sellThruPercent": 12,
+          "receiptsUnits": 11001,
+          "receiptsDollars": 11001,
+          "bopUnits": 11001,
+          "doorCount": 111,
+          "styleColorCount": 111,
+          "ticketAUR": 111,
+          "cost": 11001,
+          "startFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK1",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK1",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        },
+        {
+          "salesUnits": 22002,
+          "salesDollars": 22002,
+          "sellThruPercent": 24,
+          "receiptsUnits": 22002,
+          "receiptsDollars": 22002,
+          "bopUnits": 22002,
+          "doorCount": 222,
+          "styleColorCount": 222,
+          "ticketAUR": 222,
+          "cost": 22002,
+          "startFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK2",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK2",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        },
+        {
+          "salesUnits": 33003,
+          "salesDollars": 33003,
+          "sellThruPercent": 36,
+          "receiptsUnits": 33003,
+          "receiptsDollars": 33003,
+          "bopUnits": 33003,
+          "doorCount": 333,
+          "styleColorCount": 333,
+          "ticketAUR": 333,
+          "cost": 33003,
+          "startFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK3",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK3",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        },
+        {
+          "salesUnits": 44004,
+          "salesDollars": 44004,
+          "sellThruPercent": 48,
+          "receiptsUnits": 44004,
+          "receiptsDollars": 44004,
+          "bopUnits": 44004,
+          "doorCount": 444,
+          "styleColorCount": 444,
+          "ticketAUR": 444,
+          "cost": 44004,
+          "startFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK4",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK4",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        }
+      ],
+      "monthPlanData": null,
+      "dynamicPlanData": null
+    },
+    "storeChannelPlan": {
+      "weekPlanData": [
+        {
+          "salesUnits": 10001,
+          "salesDollars": 10001,
+          "sellThruPercent": 11,
+          "receiptsUnits": 10001,
+          "receiptsDollars": 10001,
+          "bopUnits": 10001,
+          "doorCount": 101,
+          "styleColorCount": 101,
+          "ticketAUR": 101,
+          "cost": 10001,
+          "startFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK1",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK1",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        },
+        {
+          "salesUnits": 20002,
+          "salesDollars": 20002,
+          "sellThruPercent": 22,
+          "receiptsUnits": 20002,
+          "receiptsDollars": 20002,
+          "bopUnits": 20002,
+          "doorCount": 202,
+          "styleColorCount": 202,
+          "ticketAUR": 202,
+          "cost": 20002,
+          "startFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK2",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK2",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        },
+        {
+          "salesUnits": 30003,
+          "salesDollars": 30003,
+          "sellThruPercent": 33,
+          "receiptsUnits": 30003,
+          "receiptsDollars": 30003,
+          "bopUnits": 30003,
+          "doorCount": 303,
+          "styleColorCount": 303,
+          "ticketAUR": 303,
+          "cost": 30003,
+          "startFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK3",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK3",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        },
+        {
+          "salesUnits": 40004,
+          "salesDollars": 40004,
+          "sellThruPercent": 44,
+          "receiptsUnits": 40004,
+          "receiptsDollars": 40004,
+          "bopUnits": 40004,
+          "doorCount": 404,
+          "styleColorCount": 404,
+          "ticketAUR": 404,
+          "cost": 40004,
+          "startFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK4",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK4",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        }
+      ],
+      "monthPlanData": null,
+      "dynamicPlanData": null
+    },
+    "startFiscalDate": null,
+    "endFiscalDate": null
+  },
+  {
+    "tyProgram": "Program Plan 4 2018",
+    "lyProgram": [
+      "Program Plan 4 2017"
+    ],
+    "omniChannelPlan": {
+      "weekPlanData": [
+        {
+          "salesUnits": 42004,
+          "salesDollars": 42004,
+          "sellThruPercent": 46,
+          "receiptsUnits": 42004,
+          "receiptsDollars": 42004,
+          "bopUnits": 42004,
+          "doorCount": 424,
+          "styleColorCount": 424,
+          "ticketAUR": 424,
+          "cost": 42004,
+          "startFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK2",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK2",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        },
+        {
+          "salesUnits": 63006,
+          "salesDollars": 63006,
+          "sellThruPercent": 69,
+          "receiptsUnits": 63006,
+          "receiptsDollars": 63006,
+          "bopUnits": 63006,
+          "doorCount": 636,
+          "styleColorCount": 636,
+          "ticketAUR": 636,
+          "cost": 63006,
+          "startFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK3",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK3",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        },
+        {
+          "salesUnits": 84008,
+          "salesDollars": 84008,
+          "sellThruPercent": 92,
+          "receiptsUnits": 84008,
+          "receiptsDollars": 84008,
+          "bopUnits": 84008,
+          "doorCount": 848,
+          "styleColorCount": 848,
+          "ticketAUR": 848,
+          "cost": 84008,
+          "startFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK4",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK4",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        }
+      ],
+      "monthPlanData": null,
+      "dynamicPlanData": null
+    },
+    "digitalChannelPlan": {
+      "weekPlanData": [
+        {
+          "salesUnits": 22002,
+          "salesDollars": 22002,
+          "sellThruPercent": 24,
+          "receiptsUnits": 22002,
+          "receiptsDollars": 22002,
+          "bopUnits": 22002,
+          "doorCount": 222,
+          "styleColorCount": 222,
+          "ticketAUR": 222,
+          "cost": 22002,
+          "startFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK2",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK2",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        },
+        {
+          "salesUnits": 33003,
+          "salesDollars": 33003,
+          "sellThruPercent": 36,
+          "receiptsUnits": 33003,
+          "receiptsDollars": 33003,
+          "bopUnits": 33003,
+          "doorCount": 333,
+          "styleColorCount": 333,
+          "ticketAUR": 333,
+          "cost": 33003,
+          "startFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK3",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK3",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        },
+        {
+          "salesUnits": 44004,
+          "salesDollars": 44004,
+          "sellThruPercent": 48,
+          "receiptsUnits": 44004,
+          "receiptsDollars": 44004,
+          "bopUnits": 44004,
+          "doorCount": 444,
+          "styleColorCount": 444,
+          "ticketAUR": 444,
+          "cost": 44004,
+          "startFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK4",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK4",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        }
+      ],
+      "monthPlanData": null,
+      "dynamicPlanData": null
+    },
+    "storeChannelPlan": {
+      "weekPlanData": [
+        {
+          "salesUnits": 20002,
+          "salesDollars": 20002,
+          "sellThruPercent": 22,
+          "receiptsUnits": 20002,
+          "receiptsDollars": 20002,
+          "bopUnits": 20002,
+          "doorCount": 202,
+          "styleColorCount": 202,
+          "ticketAUR": 202,
+          "cost": 20002,
+          "startFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK2",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK2",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        },
+        {
+          "salesUnits": 30003,
+          "salesDollars": 30003,
+          "sellThruPercent": 33,
+          "receiptsUnits": 30003,
+          "receiptsDollars": 30003,
+          "bopUnits": 30003,
+          "doorCount": 303,
+          "styleColorCount": 303,
+          "ticketAUR": 303,
+          "cost": 30003,
+          "startFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK3",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK3",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        },
+        {
+          "salesUnits": 40004,
+          "salesDollars": 40004,
+          "sellThruPercent": 44,
+          "receiptsUnits": 40004,
+          "receiptsDollars": 40004,
+          "bopUnits": 40004,
+          "doorCount": 404,
+          "styleColorCount": 404,
+          "ticketAUR": 404,
+          "cost": 40004,
+          "startFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK4",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK4",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        }
+      ],
+      "monthPlanData": null,
+      "dynamicPlanData": null
+    },
+    "startFiscalDate": null,
+    "endFiscalDate": null
+  },
+  {
+    "tyProgram": "Program Plan 5 2018",
+    "lyProgram": [
+      "Program Plan 5 2017"
+    ],
+    "omniChannelPlan": {
+      "weekPlanData": [
+        {
+          "salesUnits": 84008,
+          "salesDollars": 84008,
+          "sellThruPercent": 92,
+          "receiptsUnits": 84008,
+          "receiptsDollars": 84008,
+          "bopUnits": 84008,
+          "doorCount": 848,
+          "styleColorCount": 848,
+          "ticketAUR": 848,
+          "cost": 84008,
+          "startFiscalDate": {
+            "fiscalMonth": "JAN",
+            "fiscalWeek": "WK4",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "JAN",
+            "fiscalWeek": "WK4",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        },
+        {
+          "salesUnits": 21002,
+          "salesDollars": 21002,
+          "sellThruPercent": 23,
+          "receiptsUnits": 21002,
+          "receiptsDollars": 21002,
+          "bopUnits": 21002,
+          "doorCount": 212,
+          "styleColorCount": 212,
+          "ticketAUR": 212,
+          "cost": 21002,
+          "startFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK1",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK1",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        },
+        {
+          "salesUnits": 42004,
+          "salesDollars": 42004,
+          "sellThruPercent": 46,
+          "receiptsUnits": 42004,
+          "receiptsDollars": 42004,
+          "bopUnits": 42004,
+          "doorCount": 424,
+          "styleColorCount": 424,
+          "ticketAUR": 424,
+          "cost": 42004,
+          "startFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK2",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK2",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        },
+        {
+          "salesUnits": 63006,
+          "salesDollars": 63006,
+          "sellThruPercent": 69,
+          "receiptsUnits": 63006,
+          "receiptsDollars": 63006,
+          "bopUnits": 63006,
+          "doorCount": 636,
+          "styleColorCount": 636,
+          "ticketAUR": 636,
+          "cost": 63006,
+          "startFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK3",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK3",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        }
+      ],
+      "monthPlanData": null,
+      "dynamicPlanData": null
+    },
+    "digitalChannelPlan": {
+      "weekPlanData": [
+        {
+          "salesUnits": 84008,
+          "salesDollars": 84008,
+          "sellThruPercent": 92,
+          "receiptsUnits": 84008,
+          "receiptsDollars": 84008,
+          "bopUnits": 84008,
+          "doorCount": 848,
+          "styleColorCount": 848,
+          "ticketAUR": 848,
+          "cost": 84008,
+          "startFiscalDate": {
+            "fiscalMonth": "JAN",
+            "fiscalWeek": "WK4",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "JAN",
+            "fiscalWeek": "WK4",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        },
+        {
+          "salesUnits": 21002,
+          "salesDollars": 21002,
+          "sellThruPercent": 23,
+          "receiptsUnits": 21002,
+          "receiptsDollars": 21002,
+          "bopUnits": 21002,
+          "doorCount": 212,
+          "styleColorCount": 212,
+          "ticketAUR": 212,
+          "cost": 21002,
+          "startFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK1",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK1",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        },
+        {
+          "salesUnits": 42004,
+          "salesDollars": 42004,
+          "sellThruPercent": 46,
+          "receiptsUnits": 42004,
+          "receiptsDollars": 42004,
+          "bopUnits": 42004,
+          "doorCount": 424,
+          "styleColorCount": 424,
+          "ticketAUR": 424,
+          "cost": 42004,
+          "startFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK2",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK2",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        },
+        {
+          "salesUnits": 63006,
+          "salesDollars": 63006,
+          "sellThruPercent": 69,
+          "receiptsUnits": 63006,
+          "receiptsDollars": 63006,
+          "bopUnits": 63006,
+          "doorCount": 636,
+          "styleColorCount": 636,
+          "ticketAUR": 636,
+          "cost": 63006,
+          "startFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK3",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK3",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        }
+      ],
+      "monthPlanData": null,
+      "dynamicPlanData": null
+    },
+    "storeChannelPlan": {
+      "weekPlanData": [
+        {
+          "salesUnits": 84008,
+          "salesDollars": 84008,
+          "sellThruPercent": 92,
+          "receiptsUnits": 84008,
+          "receiptsDollars": 84008,
+          "bopUnits": 84008,
+          "doorCount": 848,
+          "styleColorCount": 848,
+          "ticketAUR": 848,
+          "cost": 84008,
+          "startFiscalDate": {
+            "fiscalMonth": "JAN",
+            "fiscalWeek": "WK4",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "JAN",
+            "fiscalWeek": "WK4",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        },
+        {
+          "salesUnits": 21002,
+          "salesDollars": 21002,
+          "sellThruPercent": 23,
+          "receiptsUnits": 21002,
+          "receiptsDollars": 21002,
+          "bopUnits": 21002,
+          "doorCount": 212,
+          "styleColorCount": 212,
+          "ticketAUR": 212,
+          "cost": 21002,
+          "startFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK1",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK1",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        },
+        {
+          "salesUnits": 42004,
+          "salesDollars": 42004,
+          "sellThruPercent": 46,
+          "receiptsUnits": 42004,
+          "receiptsDollars": 42004,
+          "bopUnits": 42004,
+          "doorCount": 424,
+          "styleColorCount": 424,
+          "ticketAUR": 424,
+          "cost": 42004,
+          "startFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK2",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK2",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        },
+        {
+          "salesUnits": 63006,
+          "salesDollars": 63006,
+          "sellThruPercent": 69,
+          "receiptsUnits": 63006,
+          "receiptsDollars": 63006,
+          "bopUnits": 63006,
+          "doorCount": 636,
+          "styleColorCount": 636,
+          "ticketAUR": 636,
+          "cost": 63006,
+          "startFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK3",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "FEB",
+            "fiscalWeek": "WK3",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        }
+      ],
+      "monthPlanData": null,
+      "dynamicPlanData": null
+    },
+    "startFiscalDate": null,
+    "endFiscalDate": null
+  },
+  {
+    "tyProgram": "Program Plan 6 2018",
+    "lyProgram": [
+      "Program Plan 6 2017"
+    ],
+    "omniChannelPlan": {
+      "weekPlanData": [
+        {
+          "salesUnits": 21002,
+          "salesDollars": 21002,
+          "sellThruPercent": 23,
+          "receiptsUnits": 21002,
+          "receiptsDollars": 21002,
+          "bopUnits": 21002,
+          "doorCount": 212,
+          "styleColorCount": 212,
+          "ticketAUR": 212,
+          "cost": 21002,
+          "startFiscalDate": {
+            "fiscalMonth": "MAR",
+            "fiscalWeek": "WK1",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "MAR",
+            "fiscalWeek": "WK1",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        },
+        {
+          "salesUnits": 42004,
+          "salesDollars": 42004,
+          "sellThruPercent": 46,
+          "receiptsUnits": 42004,
+          "receiptsDollars": 42004,
+          "bopUnits": 42004,
+          "doorCount": 424,
+          "styleColorCount": 424,
+          "ticketAUR": 424,
+          "cost": 42004,
+          "startFiscalDate": {
+            "fiscalMonth": "MAR",
+            "fiscalWeek": "WK2",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "MAR",
+            "fiscalWeek": "WK2",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        },
+        {
+          "salesUnits": 63006,
+          "salesDollars": 63006,
+          "sellThruPercent": 69,
+          "receiptsUnits": 63006,
+          "receiptsDollars": 63006,
+          "bopUnits": 63006,
+          "doorCount": 636,
+          "styleColorCount": 636,
+          "ticketAUR": 636,
+          "cost": 63006,
+          "startFiscalDate": {
+            "fiscalMonth": "MAR",
+            "fiscalWeek": "WK3",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "MAR",
+            "fiscalWeek": "WK3",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        },
+        {
+          "salesUnits": 84008,
+          "salesDollars": 84008,
+          "sellThruPercent": 92,
+          "receiptsUnits": 84008,
+          "receiptsDollars": 84008,
+          "bopUnits": 84008,
+          "doorCount": 848,
+          "styleColorCount": 848,
+          "ticketAUR": 848,
+          "cost": 84008,
+          "startFiscalDate": {
+            "fiscalMonth": "MAR",
+            "fiscalWeek": "WK4",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "MAR",
+            "fiscalWeek": "WK4",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        }
+      ],
+      "monthPlanData": null,
+      "dynamicPlanData": null
+    },
+    "digitalChannelPlan": {
+      "weekPlanData": [
+        {
+          "salesUnits": 21002,
+          "salesDollars": 21002,
+          "sellThruPercent": 23,
+          "receiptsUnits": 21002,
+          "receiptsDollars": 21002,
+          "bopUnits": 21002,
+          "doorCount": 212,
+          "styleColorCount": 212,
+          "ticketAUR": 212,
+          "cost": 21002,
+          "startFiscalDate": {
+            "fiscalMonth": "MAR",
+            "fiscalWeek": "WK1",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "MAR",
+            "fiscalWeek": "WK1",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        },
+        {
+          "salesUnits": 42004,
+          "salesDollars": 42004,
+          "sellThruPercent": 46,
+          "receiptsUnits": 42004,
+          "receiptsDollars": 42004,
+          "bopUnits": 42004,
+          "doorCount": 424,
+          "styleColorCount": 424,
+          "ticketAUR": 424,
+          "cost": 42004,
+          "startFiscalDate": {
+            "fiscalMonth": "MAR",
+            "fiscalWeek": "WK2",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "MAR",
+            "fiscalWeek": "WK2",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        },
+        {
+          "salesUnits": 63006,
+          "salesDollars": 63006,
+          "sellThruPercent": 69,
+          "receiptsUnits": 63006,
+          "receiptsDollars": 63006,
+          "bopUnits": 63006,
+          "doorCount": 636,
+          "styleColorCount": 636,
+          "ticketAUR": 636,
+          "cost": 63006,
+          "startFiscalDate": {
+            "fiscalMonth": "MAR",
+            "fiscalWeek": "WK3",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "MAR",
+            "fiscalWeek": "WK3",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        },
+        {
+          "salesUnits": 84008,
+          "salesDollars": 84008,
+          "sellThruPercent": 92,
+          "receiptsUnits": 84008,
+          "receiptsDollars": 84008,
+          "bopUnits": 84008,
+          "doorCount": 848,
+          "styleColorCount": 848,
+          "ticketAUR": 848,
+          "cost": 84008,
+          "startFiscalDate": {
+            "fiscalMonth": "MAR",
+            "fiscalWeek": "WK4",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "MAR",
+            "fiscalWeek": "WK4",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        }
+      ],
+      "monthPlanData": null,
+      "dynamicPlanData": null
+    },
+    "storeChannelPlan": {
+      "weekPlanData": [
+        {
+          "salesUnits": 21002,
+          "salesDollars": 21002,
+          "sellThruPercent": 23,
+          "receiptsUnits": 21002,
+          "receiptsDollars": 21002,
+          "bopUnits": 21002,
+          "doorCount": 212,
+          "styleColorCount": 212,
+          "ticketAUR": 212,
+          "cost": 21002,
+          "startFiscalDate": {
+            "fiscalMonth": "MAR",
+            "fiscalWeek": "WK1",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "MAR",
+            "fiscalWeek": "WK1",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        },
+        {
+          "salesUnits": 42004,
+          "salesDollars": 42004,
+          "sellThruPercent": 46,
+          "receiptsUnits": 42004,
+          "receiptsDollars": 42004,
+          "bopUnits": 42004,
+          "doorCount": 424,
+          "styleColorCount": 424,
+          "ticketAUR": 424,
+          "cost": 42004,
+          "startFiscalDate": {
+            "fiscalMonth": "MAR",
+            "fiscalWeek": "WK2",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "MAR",
+            "fiscalWeek": "WK2",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        },
+        {
+          "salesUnits": 63006,
+          "salesDollars": 63006,
+          "sellThruPercent": 69,
+          "receiptsUnits": 63006,
+          "receiptsDollars": 63006,
+          "bopUnits": 63006,
+          "doorCount": 636,
+          "styleColorCount": 636,
+          "ticketAUR": 636,
+          "cost": 63006,
+          "startFiscalDate": {
+            "fiscalMonth": "MAR",
+            "fiscalWeek": "WK3",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "MAR",
+            "fiscalWeek": "WK3",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        },
+        {
+          "salesUnits": 84008,
+          "salesDollars": 84008,
+          "sellThruPercent": 92,
+          "receiptsUnits": 84008,
+          "receiptsDollars": 84008,
+          "bopUnits": 84008,
+          "doorCount": 848,
+          "styleColorCount": 848,
+          "ticketAUR": 848,
+          "cost": 84008,
+          "startFiscalDate": {
+            "fiscalMonth": "MAR",
+            "fiscalWeek": "WK4",
+            "fiscalYear": 2018
+          },
+          "endFiscalDate": {
+            "fiscalMonth": "MAR",
+            "fiscalWeek": "WK4",
+            "fiscalYear": 2018
+          },
+          "notes": null
+        }
+      ],
+      "monthPlanData": null,
+      "dynamicPlanData": null
+    },
+    "startFiscalDate": null,
+    "endFiscalDate": null
+  }
+]
